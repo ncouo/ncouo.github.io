@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ncouo.github.io/yJN/sitemap.yJN.gz
